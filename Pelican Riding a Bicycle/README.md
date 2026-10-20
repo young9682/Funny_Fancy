@@ -33,4 +33,4 @@ Pelican Riding a Bicycle/
 
 本片由 **SSPU AILAB | 超级棒棒糖（bbt）** 独家赞助播出。
 
-独家自部署 **int8 deepseek-v4-flash**。
+独家自部署 **FP4 deepseek-v4-flash**。
